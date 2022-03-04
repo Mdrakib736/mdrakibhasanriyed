@@ -1,0 +1,48 @@
+.mair-div{
+background-image: url(../index.html/ing/1.jpg);   
+background-size: cover;
+background-repeat: no-repeat; 
+background-position:center;
+padding: 200px 0;
+}
+.mair-div-in{
+    background-image: url(../index.html/ing/99.jpg);   
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position:center;
+    padding: 200px 0;
+}
+.table{
+    margin: 0 auto;
+color: Yellow;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+.table tr td{
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Roboto" sans-serif;
+}
+.table tr td input{
+    color: white;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid #fff;
+}
+.table tr td button{
+height: 35px;
+background: transparent;
+width: 85px;
+border:;
+border-bottom: 2px solid #777 ;
+font-weight: 500;
+color: #FF0000;
+transform: 4s;
+}
+.table tr td button :hover{
+    background: #fff;
+    color: #000;
+}
